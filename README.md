@@ -16,7 +16,8 @@ This app helps users understand how much polluted air they personally breathe ev
 At the end of the day, the app also generates a personalized recovery plan (breathing + diet suggestions) using the Gemini API.
 
 ---
-# link for testing  [https://jocular-taffy-92e528.netlify.app/]
+## link for testing  [https://jocular-taffy-92e528.netlify.app/]
+## link for demo [https://drive.google.com/file/d/1sjj0_o4iAo_IaAwsESXW5n3cw95rgpmI/view?usp=drivesdk]
 ## 📚Table of Contents  
 - [Features](#features)
 - [Tech Stack & Dependencies](#tech-stack--dependencies)  
