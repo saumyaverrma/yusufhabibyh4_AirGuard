@@ -38,7 +38,7 @@ At the end of the day, the app also generates a personalized recovery plan (brea
 - Geofence detects when user leaves/enters home
 
 #### Dynamic Score Formula <br>
-dartfinalExposureScore = baseScore * vulnerabilityMultiplier * protectionFactor <br>
+finalExposureScore = baseScore * vulnerabilityMultiplier * protectionFactor <br>
 where: <br>
 baseScore = time_outside * AQI <br>
 vulnerabilityMultiplier = 1.0 + (sum of negative factors) <br>
@@ -82,6 +82,9 @@ Displays:
 ### Dependencies
 geolocator – For live GPS tracking and geofencing<br>
 WAQI API – For live AQI and PM2.5 data
+shared_preferences:- for storing user data on local storage 
+fl_chart: - for charts
+
 
 ---
 
