@@ -81,9 +81,9 @@ Displays:
 
 ### Dependencies
 geolocator – For live GPS tracking and geofencing<br>
-WAQI API – For live AQI and PM2.5 data
-shared_preferences:- for storing user data on local storage 
-fl_chart: - for charts
+WAQI API – For live AQI and PM2.5 data <br>
+shared_preferences:- for storing user data on local storage <br>
+fl_chart: - for charts<br>
 
 
 ---
